@@ -1,0 +1,3 @@
+# PitchPlayer app-ads.txt
+# Replace or edit your Google AdMob line below if needed:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
