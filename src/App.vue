@@ -166,7 +166,6 @@ const resetControls = () => {
           <p>로컬 음원 피치 및 템포 조절 음악 플레이어</p>
         </div>
         <div class="footer-links">
-          <a href="./app-ads.txt" target="_blank">app-ads.txt</a>
           <a href="https://github.com/jyjy6/pitchplayer-site" target="_blank">GitHub Repository</a>
         </div>
       </div>
