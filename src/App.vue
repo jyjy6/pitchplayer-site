@@ -40,7 +40,6 @@ const resetControls = () => {
       <nav class="nav-links">
         <a href="#features">기능 소개</a>
         <a href="#demo">체험하기</a>
-        <a href="./app-ads.txt" target="_blank" class="nav-badge">app-ads.txt</a>
       </nav>
     </header>
 
